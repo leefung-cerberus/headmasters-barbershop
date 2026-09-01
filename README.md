@@ -21,8 +21,6 @@ index.html          Page markup + SEO/schema.org metadata
 css/style.css        All styles (design tokens at the top under :root)
 js/main.js           Sticky header, mobile nav, scroll reveal, gallery lightbox, today's-hours highlight
 images/              Photography (see "Replacing the photos" below)
-headmasters wall sign logo.png    Original reference photo of the framed shop sign
-barbershop website reference.png  Original layout reference supplied by the client
 ```
 
 ## Brand
